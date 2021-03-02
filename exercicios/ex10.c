@@ -11,8 +11,10 @@ int main(){
     scanf("%f",&kwh);
 
     printf("digite o tipo de instalacao: \nR para residEncias \nI para industrias  \nC para comercios\n");
-    scanf("%s",&instalacao);
+    scanf("%c",&instalacao);
     
+
+
     if (instalacao == "R"){
         if (kwh>500){
             pagar=kwh*0.65;
@@ -39,8 +41,6 @@ int main(){
 
 
 
-
-
-    printf("o preco total a pagar foi de R$%.2f %s",pagar,instalacao);
+    printf("o preco total a pagar foi de R$%.2f ",pagar);
 
 }
