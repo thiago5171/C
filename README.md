@@ -19,12 +19,8 @@
 [#2] Desenvolva em cada LP um programa que pergunte o salário do funcionário e calcule o valor do aumento. Para salários superiores a R$ 1.250,00,
 calcule um aumento de 10%. Para os inferiores ou iguais, de 15%.
 
-[#3] Desenvolva em cada LP um programa leia dois ńúmeros e que pergunte qual operação você deseja realizar. Você deve poder calcular soma (+),
-subtração (-), multiplicação (*) e divisão (/). Exiba o resultado da operação solicitada.
+[#3] Desenvolva em cada LP um programa leia dois ńúmeros e que pergunte qual operação você deseja realizar. Você deve poder calcular soma (+),subtração (-), multiplicação (*) e divisão (/). Exiba o resultado da operação solicitada.
 
-[#4] Desenvolva em cada LPum programa para aprovar o empréstimo bancário para compra de uma casa. O programa deve perguntar o valor da casa a
-comprar, o salário e a quantidade de anos a pagar. O valor da prestação mensal não pode ser superior a 30% do salário. Calcule o valor da prestação
-como sendo o valor da casa a comprar dividido pelo número de meses a pagar.
+[#4] Desenvolva em cada LPum programa para aprovar o empréstimo bancário para compra de uma casa. O programa deve perguntar o valor da casa a comprar, o salário e a quantidade de anos a pagar. O valor da prestação mensal não pode ser superior a 30% do salário. Calcule o valor da prestação como sendo o valor da casa a comprar dividido pelo número de meses a pagar.
 
-[#5] Desenvolva em cada LP um programa que calcule o preço a pagar pelo fornecimento de energia elétrica. Pergunte a quantidade de kWh consumida
-e o tipo de instalação: R para residências, I para indústrias e C para comércios. Calcule o preço a pagar de acordo com a tabela a seguir:
+[#5] Desenvolva em cada LP um programa que calcule o preço a pagar pelo fornecimento de energia elétrica. Pergunte a quantidade de kWh consumida e o tipo de instalação: R para residências, I para indústrias e C para comércios. Calcule o preço a pagar de acordo com a tabela a seguir:
