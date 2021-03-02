@@ -2,36 +2,30 @@
 
 int main(){
 
-int menor, maior, a,b,c;
-printf("digite um numero: \n");
-scanf("%i",&a);
-printf("digite um numero: \n");
-scanf("%i",&b);
-printf("digite um numero: \n");
-scanf("%i",&c);
+int menor,maior, a,b,c;
+printf("digite tres  numeros: \n");
+scanf("%i %i %i",&a,&b,&c);
+
  menor = a;
  
-
-if(menor > b){
-    menor = b;
-}else{
-    if (menor > c){
-    menor = c;
-    }
+ if(a> b && c > b){
+     menor = b;
  }
-printf("\no menor numero digitado  foi %i\n",menor);
+ if(b>c && a>c){
+     menor = c;
+ }
+     
 maior = a;
-
-switch (maior){
-case maior < b : maior = b; 
-break;
-case maior < c : maior = c;
-break;
-default: printf("erro");
-    break;
+if(a<b && c<b){
+    maior = b;
+}
+if (a<c && b<c){
+    maior = c;
 }
 
- printf("\no maior numero digitado foi %i \n",maior);
+
+printf("\no menor numero digitado  foi %i\n",menor);
 
 
+printf("\no maior numero digitado foi %i \n ",maior);
 }
