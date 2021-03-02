@@ -5,10 +5,11 @@ int main(){
 int menor,maior, a,b,c;
 printf("digite tres  numeros: \n");
 scanf("%i %i %i",&a,&b,&c);
-
+//eu atribui diretamente o menor e o maio valor ao primeiro para diminuir o numero de comparações que seriam necessarias
  menor = a;
  
- if(a> b && c > b){
+ 
+ if(a > b && c > b){
      menor = b;
  }
  if(b>c && a>c){
