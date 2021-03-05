@@ -2,6 +2,7 @@
  exercicios resolvidos em C
 
  -------------------------------------------------AULA 1---------------------------------------------------
+ 
 [#1]  Desenvolva  um programa que calcule o aumento de um salário. Ele deve solicitar o valor do salário e a porcentagem do aumento. Exiba o valor do aumento e do novo salário.
 
 [#2]  Desenvolva um programa que solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do desconto e o preço a pagar.
@@ -13,6 +14,7 @@
 [#5]  Desenvolva um programa para calcular a redução do tempo de vida de um fumante. Pergunte a quantidade de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fumante perde 10 minutos de vida a cada cigarro e calcule quantos dias de vida um fumante perderá. Exiba o total em dias
 
  -------------------------------------------------AULA 2---------------------------------------------------
+
 
 [#1] Desenvolva em cada LP um programa que leia três números e que imprima o maior e o menor.
 
