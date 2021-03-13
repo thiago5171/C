@@ -9,14 +9,9 @@ int main(){
     printf("digite o valor do divisor: \n");
     scanf("%i",&divisor);
     
-    for(i=1;i<=dividendo;i+=divisor){
-        cont+=1;
-
+    while(dividendo>=divisor)
+    {
+        dividendo=dividendo-divisor;
     }
-    if (dividendo%2==1){
-        printf("o resultado da divisao foi %i\n",cont-1);
-    }else{
-        printf("o resultado da divisao foi %i \n",cont);
-    }
-
+    printf("o resto eh -> %i\n",dividendo);
 }
