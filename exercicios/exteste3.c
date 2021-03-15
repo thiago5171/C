@@ -10,11 +10,11 @@ int main(){
     for (i = 1; i <= 24; i++)
     {
         juros= deposito*taxa*i;
-        printf("%.1f\n",juros);
+        printf("R$%.2f\n",juros);
         soma+=juros;
     }
     
        
     printf("\no ganho total foi de R$%.2f reais.\n\n",soma);
-
+    return 0;
 }
