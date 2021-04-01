@@ -39,3 +39,11 @@ calcule um aumento de 10%. Para os inferiores ou iguais, de 15%.
 [#4] Desenvolva em cada LP um programa que calcule o resto da divisão inteira entre dois números. Utilize apenas as operações de soma e subtração para calcular o resultado..
 
 [#5] Desenvolva em cada LP um programa que verifique se um número é palíndromo. Um número é palíndromo se continua o mesmo caso seus dígitos sejam invertidos. Exemplos: 454, 10501.
+
+18) Determinar quantas vogais tem dentro de uma determinada string dada e imprimir a string sem as vogais.
+
+19.) Receba uma string e calcule a quantidade de consoantes. Entre com um caractere (vogal ou consoante) e substitua todas as vogais da string dada por esse caractere.
+
+20)Determinar quantas palavras tem dentro de uma determinada frase.
+
+21)Ler nove caracteres numéricos em uma string. Mostre o conteúdo dessa string colocando pontos e vírgula, respectivamente nas posições inteiras e decimais. Exemplo: 987654321 → 9.876.543,21. Depois converta para flutuante e faça uma operação de multiplicação por 3, mostrando o resultado.
