@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  int l3[10],l2[5],l1[5];
+  int l3[10],l2[5],l1[5], j=0;
 //lista 1  
   for(int i=0;i<5;i++){
       scanf("%i",&l1[i]);    
@@ -14,10 +14,10 @@ int main() {
   for(int i=0;i<10;i++){
       if(i<5){
         l3[i]=l1[i];
-        printf("%i, ",i);
+        
       }else{
-        l3[i]=l2[i]; 
-        printf("%i, ",i);
+        l3[i]=l2[j]; 
+        j+=1;
       }
     
   }
